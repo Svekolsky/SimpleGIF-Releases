@@ -2,14 +2,14 @@
 
 A small desktop app for turning video clips into GIFs. Choose a segment, crop the frame, adjust size and compression, then preview and save.
 
-[<img src="https://raw.githubusercontent.com/Svekolsky/SimpleGIF-Releases/main/assets/download.svg?v=1385-mac1" width="232" height="56" alt="Download Windows installer" />](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/v1.38.5/SimpleGifMakerSetup-1.38.5.exe) &nbsp; [<img src="https://raw.githubusercontent.com/Svekolsky/SimpleGIF-Releases/main/assets/portable.svg?v=1385-mac1" width="232" height="56" alt="Download Windows Portable" />](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/v1.38.5/SimpleGIF-1.38.5-Portable.exe) &nbsp; [<img src="https://raw.githubusercontent.com/Svekolsky/SimpleGIF-Releases/main/assets/macos.svg?v=1385-mac1" width="232" height="56" alt="Download for macOS — Apple Silicon beta" />](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/macos-v1.38.5-beta.1/SimpleGIF-1.38.5-macOS-arm64-beta.1.dmg)
+[<img src="https://raw.githubusercontent.com/Svekolsky/SimpleGIF-Releases/main/assets/download.svg?v=1385-mac1" width="232" height="56" alt="Download Windows installer" />](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/v1.39.0/SimpleGifMakerSetup-1.39.0.exe) &nbsp; [<img src="https://raw.githubusercontent.com/Svekolsky/SimpleGIF-Releases/main/assets/portable.svg?v=1385-mac1" width="232" height="56" alt="Download Windows Portable" />](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/v1.39.0/SimpleGIF-1.39.0-Portable.exe) &nbsp; [<img src="https://raw.githubusercontent.com/Svekolsky/SimpleGIF-Releases/main/assets/macos.svg?v=1385-mac1" width="232" height="56" alt="Download for macOS — Apple Silicon beta" />](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/macos-v1.38.5-beta.1/SimpleGIF-1.38.5-macOS-arm64-beta.1.dmg)
 
-**Windows · Stable 1.38.5** — Windows 10 / 11, 64-bit · Installer: 92.8 MB · [Portable EXE · 91.4 MB](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/v1.38.5/SimpleGIF-1.38.5-Portable.exe)  
+**Windows · Stable 1.39.0** — Windows 10 / 11, 64-bit · Installer: 92.8 MB · [Portable EXE · 91.5 MB](https://github.com/Svekolsky/SimpleGIF-Releases/releases/download/v1.39.0/SimpleGIF-1.39.0-Portable.exe)  
 **macOS · Beta 1** — Apple Silicon (M1 or newer), macOS 15 Sequoia or newer · DMG: 86.5 MB · [Release notes and ZIP](https://github.com/Svekolsky/SimpleGIF-Releases/releases/tag/macos-v1.38.5-beta.1)
 
 Free · Video processing runs locally.
 
-<img src="https://github.com/user-attachments/assets/8f12500e-2e45-4945-ad14-936c66aba5a6" width="960" alt="Simple GIF Maker interface — video preview, trimming and compression controls" />
+<img src="https://github.com/user-attachments/assets/629db96e-fad9-439d-a429-afd5672f38ae" width="960" alt="Simple GIF Maker interface — video preview, trimming and compression controls" />
 
 <details>
 <summary>Preview the macOS beta interface</summary>
@@ -34,6 +34,8 @@ Open the DMG and drag **SimpleGIF.app** to **Applications**. Open a video inside
 This is an experimental Mac port. Automated checks passed on an Apple Silicon Mac runner; broader hands-on testing is still needed.
 
 ## Features
+
+New in **Windows 1.39.0**: paint important areas to prioritise source colours, brush gradients to reduce flicker, and adjust dithering with the Noise slider. Masks stay in place; results may be larger. [Screenshots, sample GIF and release notes](https://github.com/Svekolsky/SimpleGIF-Releases/releases/tag/v1.39.0).
 
 - Trim a video segment and crop freely or to a fixed aspect ratio.
 - Resize with quick scale presets or linked width and height fields.
