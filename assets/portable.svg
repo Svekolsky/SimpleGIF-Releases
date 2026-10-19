@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="56" viewBox="0 0 192 56" role="img" aria-label="Download portable version">
+<rect x=".5" y=".5" width="191" height="55" rx="11.5" fill="#202023" stroke="#3c3c43"/>
+<g fill="none" stroke="#e7e7eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M26 18v16m-6-6 6 6 6-6M17 34v5h18v-5"/></g>
+<text x="49" y="26" fill="#f2f2f5" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Portable</text>
+<text x="49" y="43" fill="#b5b5be" font-family="Segoe UI,Arial,sans-serif" font-size="11">Run without installation</text>
+</svg>
