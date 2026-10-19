@@ -11,6 +11,13 @@ Free · Video processing runs locally.
 
 <img src="https://github.com/user-attachments/assets/8f12500e-2e45-4945-ad14-936c66aba5a6" width="960" alt="Simple GIF Maker interface — video preview, trimming and compression controls" />
 
+<details>
+<summary>Preview the macOS beta interface</summary>
+
+<img src="https://github.com/user-attachments/assets/cab515ac-4d5c-452c-9851-b9d0bc38b241" width="960" alt="Simple GIF Maker macOS beta interface — video trimming, crop and compression controls" />
+
+</details>
+
 ## Install on Windows
 
 - **Installer** — installs the app or updates an existing copy, keeping the previous folder and selected options. Includes the optional **Open in Simple GIF Maker** video context-menu command, enabled by default on a fresh installation.
